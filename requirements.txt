@@ -1,10 +1,9 @@
 ipython
 textblob
 wikipedia
+nltk
 fire
 pytest
 pytest-cov
 pylint
-black
-fastapi
-uvicorn[standard]
+pyback
